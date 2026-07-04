@@ -28,7 +28,7 @@ author = "Jim"
 license = "LGPL-3.0-only"
 
 # URL to the repository of your app.
-url = "https://www.github.com/hughrawlinson/tildagon-demo"
+url = "https://github.com/StripeyCatIndustries/GlasHackEMFApp"
 
 # Description of your app.  Maximum 140 characters!
 description = "App to display GlasHack.Space logo on Tildagon badge."
